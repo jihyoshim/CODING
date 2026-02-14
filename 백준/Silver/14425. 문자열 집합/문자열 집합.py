@@ -1,0 +1,9 @@
+n,m = map(int, input().split())
+s = set()
+for i in range(n) :
+  s.add(input())
+count = 0 
+for i in range(m) :
+  if input() in s : 
+    count = count + 1
+print(count) 
