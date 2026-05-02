@@ -1,0 +1,17 @@
+n = int(input())
+weights = list(map(int, input().split()))
+weights.sort()
+total = n*2
+min = float("inf") #무한대 
+for i in range(total) :
+  for j in range(i + 1, total) : 
+    remain = []
+    for k in range(total) :
+      if k!= i and k != j :
+        remain.append(weights[k]) 
+    sum = 0 
+    for k in range(0,len(remain), 2) : 
+      sum += remain[k+1] - remain[k] 
+    if sum < min : 
+      min = sum
+print(min) 
