@@ -1,0 +1,14 @@
+t = int(input())
+for _ in range(t) : 
+  n = int(input())
+  a = list(map(int, input().split()))
+  if a[0] == a[1] :
+    normal = a[0] 
+  elif a[0] == a[2] :
+    normal = a[0] 
+  else :
+    normal = a[1] 
+  for i in range(n) :
+    if a[i] != normal :
+      print(i+1) 
+      break
