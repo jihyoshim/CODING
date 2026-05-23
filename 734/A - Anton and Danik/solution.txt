@@ -1,0 +1,15 @@
+n = int(input())
+s = input()
+anton = 0 
+danik = 0 
+for result in s : 
+  if result == "A" :
+    anton += 1 
+  elif result == "D" :
+    danik += 1
+if anton > danik : 
+  print("Anton") 
+elif danik > anton :
+  print("Danik") 
+else : 
+  print("Friendship") 
