@@ -1,0 +1,9 @@
+n,h = map(int, input().split())
+heights = list(map(int, input().split()))
+total = 0 
+for a in heights : 
+  if a > h : 
+    total += 2
+  else : 
+    total += 1 
+print(total) 
