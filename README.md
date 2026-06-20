@@ -6,21 +6,43 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 1 |
+| 2 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (1)
+- [brute force](#brute-force) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
+- [implementation](#implementation) (2)
+- [math](#math) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
+
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 | 1003A | [Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1003/A%20-%20Polycarp's%20Pockets/solution.txt) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.txt) |
 
 ---
 
