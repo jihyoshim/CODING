@@ -6,15 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 1 |
+| 3 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
+- [sortings](#sortings) (1)
 
 ---
+
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.txt) |
 
 ### implementation
 
@@ -22,6 +30,12 @@
 |---|---------|------------|----------|
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/275/A%20-%20Lights%20Out/solution.txt) |
 | 709A | [Juicer](https://codeforces.com/contest/709/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/709/A%20-%20Juicer/solution.txt) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.txt) |
 
 ---
 
