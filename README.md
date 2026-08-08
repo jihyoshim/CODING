@@ -6,17 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [implementation](#implementation) (3)
 - [sortings](#sortings) (1)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
 
 ### greedy
 
@@ -30,6 +37,7 @@
 |---|---------|------------|----------|
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/275/A%20-%20Lights%20Out/solution.txt) |
 | 709A | [Juicer](https://codeforces.com/contest/709/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/709/A%20-%20Juicer/solution.txt) |
+| 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
 
 ### sortings
 
