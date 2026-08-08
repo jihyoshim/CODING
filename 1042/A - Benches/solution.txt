@@ -1,0 +1,11 @@
+n = int(input())
+m = int(input())
+a = [] 
+for _ in range(n) : 
+  num = int(input()) 
+  a.append(num) 
+max_k = max(a) + m 
+total = sum(a) + m 
+average = (total + n -1) // n 
+min_k = max(max(a), average) 
+print(min_k, max_k)
