@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 6 |
+| 9 | 6 |
 
 ---
 
@@ -15,9 +15,9 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (6)
+- [implementation](#implementation) (7)
 - [sortings](#sortings) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -43,6 +43,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/275/A%20-%20Lights%20Out/solution.txt) |
@@ -61,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 
 ---
 
