@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 4 |
+| 5 | 5 |
 
 ---
 
@@ -16,6 +16,7 @@
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (3)
 - [sortings](#sortings) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -44,6 +45,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.txt) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 
 ---
 
