@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (5)
+- [implementation](#implementation) (6)
 - [sortings](#sortings) (1)
 - [strings](#strings) (1)
 
@@ -44,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/275/A%20-%20Lights%20Out/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
 | 709A | [Juicer](https://codeforces.com/contest/709/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/709/A%20-%20Juicer/solution.txt) |
