@@ -1,0 +1,10 @@
+n = int(input())
+prev_magnet = input()
+group = 1
+ 
+for _ in range(n-1) : 
+	current_magnet = input()
+	if current_magnet != prev_magnet: 
+		group += 1
+		prev_magnet = current_magnet 
+print(group) 
