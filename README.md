@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 7 |
+| 13 | 8 |
 
 ---
 
@@ -16,7 +16,8 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
+- [math](#math) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
 
@@ -53,6 +54,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/116/A%20-%20Tram/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/275/A%20-%20Lights%20Out/solution.txt) |
@@ -60,6 +62,12 @@
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
 | 709A | [Juicer](https://codeforces.com/contest/709/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/709/A%20-%20Juicer/solution.txt) |
 | 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/200/B%20-%20Drinks/solution.txt) |
 
 ### sortings
 
