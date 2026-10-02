@@ -1,0 +1,10 @@
+n = int(input())
+current_passenger = 0 
+max_capacity = 0 
+ 
+for _ in range(n) : 
+	a,b = map(int, input().split()) 
+	current_passenger += b-a
+	if current_passenger > max_capacity : 
+		max_capacity = current_passenger 
+print(max_capacity) 
