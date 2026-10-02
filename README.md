@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 6 |
+| 12 | 7 |
 
 ---
 
@@ -14,10 +14,11 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (9)
+- [implementation](#implementation) (10)
 - [sortings](#sortings) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -33,6 +34,12 @@
 |---|---------|------------|----------|
 | 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
 
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -46,6 +53,7 @@
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
 | 116A | [Tram](https://codeforces.com/contest/116/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/116/A%20-%20Tram/solution.txt) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/158/A%20-%20Next%20Round/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.txt) |
 | 275A | [Lights Out](https://codeforces.com/contest/275/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/275/A%20-%20Lights%20Out/solution.txt) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.txt) |
@@ -65,6 +73,7 @@
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.txt) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.txt) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.txt) |
 
 ---
 
