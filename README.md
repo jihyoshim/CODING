@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 8 |
+| 14 | 8 |
 
 ---
 
@@ -16,7 +16,7 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
 - [greedy](#greedy) (1)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (3)
@@ -62,6 +62,7 @@
 | 344A | [Magnets](https://codeforces.com/contest/344/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/344/A%20-%20Magnets/solution.txt) |
 | 709A | [Juicer](https://codeforces.com/contest/709/problem/A) | 900 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/709/A%20-%20Juicer/solution.txt) |
 | 1042A | [Benches](https://codeforces.com/contest/1042/problem/A) | 1100 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1042/A%20-%20Benches/solution.txt) |
+| 1585A | [Life of a Flower](https://codeforces.com/contest/1585/problem/A) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1585/A%20-%20Life%20of%20a%20Flower/solution.txt) |
 
 ### math
 
