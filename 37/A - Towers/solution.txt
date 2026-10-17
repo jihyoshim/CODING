@@ -1,0 +1,15 @@
+n = int(input())
+bars = list(map(int, input().split())) 
+bars.sort() 
+max_height = 1
+total_towers = 1 
+current_height = 1
+for i in range(1,n) : 
+  if bars[i] == bars[i-1] : 
+    current_height += 1 
+  else : 
+    current_height = 1
+    total_towers += 1 
+  if current_height > max_height : 
+    max_height = current_height 
+print(max_height, total_towers) 
