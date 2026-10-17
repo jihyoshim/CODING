@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 8 |
+| 15 | 8 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (12)
 - [math](#math) (1)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 - [strings](#strings) (3)
 
 ---
@@ -74,6 +74,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 37A | [Towers](https://codeforces.com/contest/37/problem/A) | 1000 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/37/A%20-%20Towers/solution.txt) |
 | 1353B | [Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | 800 | [PyPy 3-64](https://github.com/jihyoshim/CODING/blob/HEAD/1353/B%20-%20Two%20Arrays%20And%20Swaps/solution.txt) |
 
 ### strings
