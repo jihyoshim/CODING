@@ -1,0 +1,11 @@
+n,m = map(int,input().split())
+a = list(map(int,input().split()))
+buses = 1
+ppl = 0 
+for x in a : 
+  if ppl + x <= m : 
+    ppl += x 
+  else : 
+    buses += 1 
+    ppl = x 
+print(buses) 
